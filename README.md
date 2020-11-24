@@ -5,4 +5,5 @@ Resolva o problema https://rachacuca.com.br/logica/problemas/compras-do-mes-ii/ 
 
 Para obter o resultado:
 swipl compras.pl
+
 solucao(X), exibir_lista(X).
