@@ -5,36 +5,48 @@ Resolva o problema https://rachacuca.com.br/logica/problemas/compras-do-mes-ii/ 
 
 Afirmações:
 
-O navio Grego sai às 6 da manhã e carrega Café.
 
-O navio do meio tem a chaminé Preta.
+A mulher que esqueceu o Amaciante está exatamente à esquerda da que foi dirigindo um Sedan.
 
-O navio Inglês sai às 9 da manhã.
+Quem foi num Crossover está exatamente à direita de quem vai pagar no cartão de Débito.
 
-O navio Francês, que tem a chaminé Azul, está à esquerda do navio que carrega Café.
+A mulher que foi com o Namorado foi fazer as compras dirigindo uma Pickup.
 
-À direita do navio que carrega Cacau está o navio que vai para Macau.
+A dona do Sedan está exatamente à esquerda da dona do SUV.
 
-O navio Brasileiro está indo para Manila.
+Quem esqueceu o Pão foi com a Mãe.
 
-O navio que carrega Arroz está ancorado ao lado do navio com chaminé Verde.
+Aline está ao lado da mulher que foi ao supermercado com o Filho.
 
-O navio que vai para Santos sai às 5 da manhã.
+Em um dos caixas da pontas está a mulher que foi ao supermercado com o Marido.
 
-O navio Espanhol sai às 7 da manhã e está à direita do navio que vai para Macau.
+No caixa da quarta posição está a mulher que vai pagar com Cheque.
 
-O navio com a chaminé Vermelha vai para Hamburgo.
+Quem vai pagar com Dinheiro está em um dos caixas das pontas.
 
-O navio que sai às 7 da manhã está ao lado do navio que tem a chaminé Branca.
+A mulher que vai pagar com oc cartão de Débito está exatamente à esquerda de quem vai pagar com Vale.
 
-O navio do canto carrega Milho.
+Juliana foi ao supermercado com a Mãe.
 
-O navio com chaminé Preta sai às 8 da manhã.
+Quem esqueceu o Presunto vai pagar com o cartão de Débito.
 
-O navio que que carrega Milho está ancorado ao lado do navio que carrega Arroz.
+A mulher da blusa Amarela está ao lado da que esqueceu as Frutas.
 
-O navio que vai para Hamburgo sai às 6 da manhã.
+Quem esqueceu o Pão foi ao supermercado dirigindo um SUV.
 
+Fernanda foi para o supermercado com o Filho.
+
+Carol está exatamente à direita da mulher que esqueceu o Amaciante.
+
+A mulher da blusa Azul está no quarto caixa.
+
+A mulher da blusa Verde está em algum lugar à esquerda da de blusa Vermelha.
+
+Quem esqueceu as Frutas está ao lado de quem esqueceu o Presunto.
+
+A mulher da blusa Amarela está em algum lugar entre a que foi com o Marido e a de blusa Verde, nessa ordem.
+
+Quem vai pagar com Dinheiro está ao lado de quem foi de Sedan ao supermercado.
 
 
 Para obter o resultado:
