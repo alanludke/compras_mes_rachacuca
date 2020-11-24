@@ -1,3 +1,4 @@
+
 blusa(amarela).
 blusa(azul).
 blusa(branca).
@@ -51,8 +52,6 @@ noCanto(X,[X|_]).
 
 todosDiferentes([]).
 todosDiferentes([H|T]) :- not(member(H,T)), todosDiferentes(T).
-
-segunda_posicao(X,mesa(_,X,_,_,_)).
 
 solucao(ListaSolucao) :- 
 
