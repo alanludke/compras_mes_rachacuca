@@ -49,6 +49,7 @@ A mulher da blusa Amarela está em algum lugar entre a que foi com o Marido e a 
 Quem vai pagar com Dinheiro está ao lado de quem foi de Sedan ao supermercado.
 
 
+
 Para obter o resultado:
 
 swipl compras.pl
