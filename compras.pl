@@ -166,7 +166,7 @@ exibir_lista([caixa(Blusa1,Nome1,Esqueceu1,Pagamento1,FoiCom1,Carro1),
               caixa(Blusa3,Nome3,Esqueceu3,Pagamento3,FoiCom3,Carro3),
               caixa(Blusa4,Nome4,Esqueceu4,Pagamento4,FoiCom4,Carro4),
               caixa(Blusa5,Nome5,Esqueceu5,Pagamento5,FoiCom5,Carro5)]):-
-    write('\n              -----------------------------------------------------------\n             |Caixa 1|Caixa 2|Caixa 3|Caixa 4|Caixa 5|'),
+    write('\n              -----------------------------------------------------------\n             |  Caixa 1  |  Caixa 2  |  Caixa 3  |  Caixa 4  |  Caixa 5  |'),
     format("~n|~`-t~73||~n"),
     format("|Blusa~t~13||~t~a~t~12+|~t~a~t~12+|~t~a~t~12+|~t~a~t~12+|~t~a~t~12+|~n", 
             [Blusa1, Blusa2, Blusa3, Blusa4, Blusa5]),
